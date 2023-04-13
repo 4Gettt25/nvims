@@ -1,0 +1,12 @@
+#!/bin/bash
+# NVIM_APPNAME aliases
+alias nvim-astro="NVIM_APPNAME=astro nvim"
+alias nvim-kickstart="NVIM_APPNAME=kickstart nvim"
+alias nvim-lazy="NVIM_APPNAME=lazy nvim"
+alias nvim-nvchad="NVIM_APPNAME=nvchad nvim"
+alias nvim-prime="NVIM_APPNAME=prime nvim"
+alias nvim-starter="NVIM_APPNAME=starter nvim"
+alias nvim-traap="NVIM_APPNAME=traap nvim"
+alias nvim-vapour="NVIM_APPNAME=vapour nvim"
+alias nvim-zulu="NVIM_APPNAME=zulu nvim"
+alias nvim-void="NVIM_APPNAME=void nvim"
