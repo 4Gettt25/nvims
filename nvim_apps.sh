@@ -10,15 +10,15 @@
 readonly neovim_apps=(
   "astro     | AstroNvim/AstroNvim     | default"
   "default   | none                    | none"
-  "kickstart | nvim-lua/kickstart.nvim | default"
-  "lazy      | LazyVim/LazyVim         | default"
+ # "kickstart | nvim-lua/kickstart.nvim | default"
+ # "lazy      | LazyVim/LazyVim         | default"
   "nvchad    | NvChad/NvChad           | default"
-  "prime     | Traap/init.lua          | default"
-  "starter   | LazyVim/starter         | default"
-  "traap     | Traap/nvim              | default"
-  "vapour    | Traap/VapourNvim        | default"
-  "zulu      | Traap/nvim              | v0.6.8-packer"
-  "void      | nvoid-lua/nvoid         | default"
+ # "prime     | Traap/init.lua          | default"
+ # "starter   | LazyVim/starter         | default"
+ # "traap     | Traap/nvim              | default"
+ # "vapour    | Traap/VapourNvim        | default"
+ # "zulu      | Traap/nvim              | v0.6.8-packer"
+ # "void      | nvoid-lua/nvoid         | default"
 )
 
 # File name that is overwritten with nvim appname aliases.
